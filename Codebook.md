@@ -7,8 +7,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 <h3>==================================================================</h3>
 
-A full description for the data is available at the site http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-The download website of the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+<h3>A full description for the data is available at the site </h3><h3>http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</h3>
+<p></p>
+<h3>The download website of the data for the project: </h3><h3>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip </h3>
 <h3>==================================================================</h3>
 
 In this project I did the following:
