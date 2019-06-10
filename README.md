@@ -1,7 +1,7 @@
-==================================================================
+==================================================================\n
 There are three files and one folder in this project.
 
-==================================================================
+==================================================================\n
 UCI HAR Dataset is a folder that contain the data for this project.
 Codebook.md is a description of the dataset and the variable it contains.
 run_analysis.R is a R script that does the transformation
