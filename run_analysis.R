@@ -1,6 +1,5 @@
-library(tidyr)
-library(dplyr)
-library(readr)
+library(plyr)
+
 
 ## read test data
 x_test = read.table("UCI Har Dataset/test/X_test.txt", colClasses = "numeric")
@@ -37,7 +36,7 @@ names(subjectdat) = "subject"
 ## step 5: From the data set in step 4, creates a second, 
 ##         independent tidy data set with the average of 
 ##         each variable for each activity and each subject.
-dat = cbind(xdat, ydat, subjectdat)
-cm  = function(x){colMeans(x[,1:66])}
+dat = cbind(ydat, subjectdat, xdat)
+cm  = function(x){colMeans(x[,3:68])}
 average_dat = ddply(dat, .(subject, activity), cm)
 write.table(average_dat, "averags_data.txt", row.name=FALSE)
