@@ -2,10 +2,10 @@
 <h1>There are three files and one folder in this project.</h1>
 
 <h3>==================================================================</h3>
-UCI HAR Dataset is a folder that contain the data for this project.
-Codebook.md is a description of the dataset and the variable it contains.
-run_analysis.R is a R script that does the transformation
-averags_data.txt is the outcome from the run_analysis.R 
+<h3>UCI HAR Dataset is a folder that contain the data for this project.</h3>
+<h3>Codebook.md is a description of the dataset and the variable it contains.</h3>
+<h3>run_analysis.R is a R script that does the transformation</h3>
+<h3>averags_data.txt is the outcome from the run_analysis.R </h3>
 
 <h3>==================================================================</h3>
 run_analysis.R does the following:
