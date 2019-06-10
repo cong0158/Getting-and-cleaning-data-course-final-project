@@ -1,5 +1,6 @@
-==================================================================\n
-There are three files and one folder in this project.
+<h3>==================================================================<h3>
+ 
+<h1>There are three files and one folder in this project.<h1>
 
 ==================================================================\n
 UCI HAR Dataset is a folder that contain the data for this project.
